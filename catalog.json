@@ -5,11 +5,11 @@
       "id": "infoblox",
       "display_name": "Infoblox",
       "description": "Sync LogicVein device inventory into Infoblox DDI via WAPI and discovery CSV import.",
-      "latest_version": "0.1.4",
+      "latest_version": "0.1.5",
       "plugin_api_version": 1,
       "min_app_version": "0.21.0",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/infoblox-0.1.4.zip",
-      "signature": "c5c36812e2d6a8ed7af2fedf84a4127d6b4deecbf44703ced4303e3f3c21810e3048ec04065fc9b96bc7655c6e4133d3c85bad0802c6a1c51ce5bda2cc583b05"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/infoblox-0.1.5.zip",
+      "signature": "d091adf6fd262d86a609f9553c435dd76e694d9cd86a5c18ba9d702e867b1591bfebda43f76b87c682829924b2c0d7cc0a69afd2d1d7151899ac7c68953e2609"
     },
     {
       "id": "netbox",
@@ -25,11 +25,11 @@
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API.",
-      "latest_version": "0.11.4",
+      "latest_version": "0.11.5",
       "plugin_api_version": 1,
       "min_app_version": "0.23.0",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.4.zip",
-      "signature": "6e2154dbd35845ad84a2e4cc53014776f9c5cfc57df65dfd396572ad5ad9e7b1454ce932b2b7b49269eeefacaf7acd67e2c7813fa5c862d2533001a7baefe006"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.5.zip",
+      "signature": "74e06ed44fdcbce98cb614076f10f4be1ae3779a21bed8df4687ae58a9fcc85521168e2f4d48628437842c7226bcb7996e53948d90873638d609da2f5307b004"
     }
   ]
 }
