@@ -15,11 +15,11 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise and resolve Jira issues from LogicVein alerts (Jira Cloud).",
-      "latest_version": "0.1.5",
+      "latest_version": "0.1.6",
       "plugin_api_version": 1,
       "min_app_version": "0.23.16",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.1.5.zip",
-      "signature": "bfc40c25b7f4402af8d28386d974382fbf34a630b3c7df8470233da98673833eadbcd57b11539f141dc81f2423b6361361d025d2738439d2d361f3de979e400d"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.1.6.zip",
+      "signature": "02a4b16ad2ea0fa40a0d96f530761a3fa7c8c7aec5d0d514cb43145a6666216a8860142b494fa1cef35bb491f84a309bf957aeab46823d2505e8c9e4b0286f0a"
     },
     {
       "id": "netbox",
