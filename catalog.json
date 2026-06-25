@@ -12,6 +12,16 @@
       "signature": "d091adf6fd262d86a609f9553c435dd76e694d9cd86a5c18ba9d702e867b1591bfebda43f76b87c682829924b2c0d7cc0a69afd2d1d7151899ac7c68953e2609"
     },
     {
+      "id": "jira",
+      "display_name": "Jira",
+      "description": "Raise and resolve Jira issues from LogicVein alerts (Jira Cloud).",
+      "latest_version": "0.1.0",
+      "plugin_api_version": 1,
+      "min_app_version": "0.21.0",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.1.0.zip",
+      "signature": "f1bcd530c32fda449bbede2c6f984224697853c2d4140a716c6ea663a53db97bc4a8b58b1f13c3f7d25620ca6e60882ab35f4641311f66a20e6d0ce1be17bd0d"
+    },
+    {
       "id": "netbox",
       "display_name": "NetBox",
       "description": "Sync LogicVein device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
