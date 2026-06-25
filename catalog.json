@@ -15,11 +15,11 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise and resolve Jira issues from LogicVein alerts, and open issues for detected config changes (Jira Cloud).",
-      "latest_version": "0.2.0",
+      "latest_version": "0.2.1",
       "plugin_api_version": 1,
-      "min_app_version": "0.23.16",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.2.0.zip",
-      "signature": "4fd47ba896b054505755a8fd9bac6c41ceed1ec5730008f733f61dc868ecef42b09cd482fa4d8cbd5e4928fbca93083ad4a6366c4ace5be9c22d4c6e340ff400"
+      "min_app_version": "0.23.17",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.2.1.zip",
+      "signature": "8ac3198399d6d51f60259314fb8ea984810f2af7f8677bd150d88cf24f12e82399dfc7aff2a535193d064b0e0a08ec3b87406daa208ab8fd897ce9a2ad1a430c"
     },
     {
       "id": "netbox",
@@ -35,11 +35,11 @@
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API.",
-      "latest_version": "0.11.11",
+      "latest_version": "0.11.12",
       "plugin_api_version": 1,
-      "min_app_version": "0.23.16",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.11.zip",
-      "signature": "33db3192df6b120a7fd683bd53be3d56627df6ad5dc047f4342cd47ae3b45d6c308713870a6ed4adca06a7f24fceaabeec51e382b5709ab0b5bc23a99894ff0e"
+      "min_app_version": "0.23.17",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.12.zip",
+      "signature": "dfd249648b0934d7351d218888bba461c040b0f1c10c9e5f9063c478e515ff19725d9dcd294f00dc15a81880a2bf87e4252c83bddfa7b86355d975bbcf1dd507"
     }
   ]
 }
