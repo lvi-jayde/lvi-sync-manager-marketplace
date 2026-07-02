@@ -15,11 +15,11 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise/resolve Jira issues from LVI alerts, open issues for detected config changes, and sync LVI inventory to Jira Assets (Jira Cloud).",
-      "latest_version": "0.3.3",
+      "latest_version": "0.3.4",
       "plugin_api_version": 1,
       "min_app_version": "0.23.17",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.3.3.zip",
-      "signature": "fcf480be228a1a66c12d0a549bbcb61a59651cc9a1fde2a38a757e1f59a9aad607d26470b0a96cf391000653f1ab049b21d168e81f6e50440265e4f26850ab04"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/jira-0.3.4.zip",
+      "signature": "182bb393ee650073b8db1ea2d8207f9ed32649f9040396b31b419eabfa9b800ff30ebb6b23d1b5deeb90261c817c83ba2a968d0a221d46d199cb773282a4e204"
     },
     {
       "id": "netbox",
