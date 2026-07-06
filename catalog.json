@@ -35,11 +35,11 @@
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API.",
-      "latest_version": "0.11.15",
+      "latest_version": "0.11.16",
       "plugin_api_version": 1,
       "min_app_version": "0.23.19",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.15.zip",
-      "signature": "98b36ae8504b363a858e8ba5c2946bd9bedf58e9c0fda8b37be5c9b13e271f8f1b98633b4fb5157d01ffc3f7c12d15d95d6ec473d7b4e93bc22f1c66934d7204"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.11.16.zip",
+      "signature": "f28726b4e61ea91422b73a5e367e5afbb4c08083f660e8de8e6339b01fb5043ae71db31828d5cf30cc69b402f35f19010504c515c816164af7c6bf25f43a6807"
     }
   ]
 }
