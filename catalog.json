@@ -5,11 +5,11 @@
       "id": "efficientip",
       "display_name": "EfficientIP",
       "description": "Sync LogicVein device inventory into EfficientIP SOLIDserver IPAM via the REST API.",
-      "latest_version": "0.6.0",
+      "latest_version": "0.6.2",
       "plugin_api_version": 1,
       "min_app_version": "0.27.2",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/efficientip-0.6.0.zip",
-      "signature": "0ef4058d695e39114c4d930640b63811471b895f51727bc618fa374ef8c49e269300d89720c71ccd39ac36783bb0ffbf0a14d9a24a66126d4e9a616f3c7b4c0f"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/efficientip-0.6.2.zip",
+      "signature": "96002c7ea5a0b3972d664818800e057f79f3d78703854ae38c5db2d40f7324a961cdc8f0f7d3a842510932f9b982b9133615cc05d48239a31d076a89990ca704"
     },
     {
       "id": "infoblox",
