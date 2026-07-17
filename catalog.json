@@ -5,11 +5,11 @@
       "id": "efficientip",
       "display_name": "EfficientIP",
       "description": "Sync LogicVein device inventory into EfficientIP SOLIDserver IPAM via the REST API.",
-      "latest_version": "0.8.2",
+      "latest_version": "0.8.3",
       "plugin_api_version": 1,
       "min_app_version": "0.32.5",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/efficientip-0.8.2.zip",
-      "signature": "2e19fb5629eba7ff684fd02c0b961e59f19b8293da014ff1c7d9940e52a27a7fd93130637d12cc1d4fe93318510d1d957aeff4c75672f52ce47047c23c8f5e0a"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/efficientip-0.8.3.zip",
+      "signature": "03899da2f758cca009a28061c4eb1724dce9d035cb7384da60b2f0f22355da327dece95f08531b477cf6b3085ce55db0b2816d89e44cb80303df587476c02f0d"
     },
     {
       "id": "infoblox",
@@ -45,11 +45,11 @@
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from LogicVein alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to LogicVein-managed devices.",
-      "latest_version": "0.13.0",
+      "latest_version": "0.13.1",
       "plugin_api_version": 1,
       "min_app_version": "0.32.5",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.13.0.zip",
-      "signature": "afc8cff8a59a31d66ddd38d88af5a67360c4f05c14d4dd3508294edb6965f802bee4e1bdf0ae4d4998f58a3a36d9a9408772b48642795587357564fbc5b14b0c"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases/snow-0.13.1.zip",
+      "signature": "c38ed21a401ca268a010799b81332b311c00086c74940f1a7e31741c9aef37e314f1875abae61f135878e2e7811a5f90725c25268e7a97c302adbf031a25d800"
     }
   ]
 }
