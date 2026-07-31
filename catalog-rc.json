@@ -15,11 +15,11 @@
       "id": "infoblox",
       "display_name": "Infoblox",
       "description": "Sync LogicVein device inventory into Infoblox DDI via WAPI and discovery CSV import.",
-      "latest_version": "0.5.1",
+      "latest_version": "0.5.2",
       "plugin_api_version": 1,
       "min_app_version": "0.39.0",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/infoblox-0.5.1.zip",
-      "signature": "b0d4632cd1ce6d7ac571708da7c459bf1ee963ed95aa671c4306075d38a038391e8edb02e541f693411f0bad5c0775148ce28bc1d149b783289fedbb4188340a"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/infoblox-0.5.2.zip",
+      "signature": "57290b2229a8fc58f57aab8164363603583f2cb79c1bc7175a00d7599f5212d5b8c21aa94fbc8b098a838d583e363f5622b7bed0765827bee57c3c4bde902808"
     },
     {
       "id": "jira",
