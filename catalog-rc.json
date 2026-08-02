@@ -25,11 +25,11 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise/resolve Jira issues from LogicVein alerts, open issues for detected config changes, and sync LogicVein inventory to Jira Assets (Jira Cloud).",
-      "latest_version": "0.5.5",
+      "latest_version": "0.5.6",
       "plugin_api_version": 1,
       "min_app_version": "0.39.0",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.5.5.zip",
-      "signature": "353f5849c6932999df8220c6dad269297de9a5bf5d550bb3ca85d124b9c4fb2668449f475cf940296b387c64a75ad5ac96fdf3933a6a8af19e068df06d4ea70a"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.5.6.zip",
+      "signature": "17a7824d43ec52504ce79880f416a365e7bbadc2426073695463e5d6ad04a682af363d719b26b63d5c3697684c2d4d5d376431a4cdfb7027430717755c91aa00"
     },
     {
       "id": "netbox",
