@@ -35,11 +35,11 @@
       "id": "netbox",
       "display_name": "NetBox",
       "description": "Sync LogicVein device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
-      "latest_version": "0.8.8",
+      "latest_version": "0.8.9",
       "plugin_api_version": 2,
       "min_app_version": "0.41.0",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.8.zip",
-      "signature": "36f29d2477461b9b97ddff32af69682fbef4299d0e51620891143d0e8e0cc628df3b623dfc8366512df5d248a17d6ab9236a5a242185701d21347c073d769f03"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.9.zip",
+      "signature": "ffc0febf754224e247ddd6c7c41973bb82169f671eb01c673f1035189b365cffd125222c1639d085afe677c45ca23cf140c6fec5c1b0bfbdb4722de25b152a00"
     },
     {
       "id": "snow",
