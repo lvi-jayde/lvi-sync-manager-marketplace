@@ -42,6 +42,16 @@
       "signature": "b1af66b6be6242296a3115ce9aef1c38637b3ed809260419bab811b059463dd3a2a53fa1176b725285e6762f53b5d2da742ab9fff66d72a27cc89f7d18238d0a"
     },
     {
+      "id": "phpipam",
+      "display_name": "phpIPAM",
+      "description": "Sync LogicVein device management IPs into phpIPAM addresses via the REST API.",
+      "latest_version": "0.1.0",
+      "plugin_api_version": 2,
+      "min_app_version": "0.41.63",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.1.0.zip",
+      "signature": "e5fbe5c2e03413670fe9e10cd23b1de4b1830a462e01b62762bd0044a5d16a6911c7459bd881ddff651256d49ab68ac13a9c179a6b0466679296274a6e5a1708"
+    },
+    {
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from LogicVein alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to LogicVein-managed devices.",
