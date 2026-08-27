@@ -25,31 +25,31 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise/resolve Jira issues from LogicVein alerts, open issues for detected config changes, and sync LogicVein inventory to Jira Assets (Jira Cloud).",
-      "latest_version": "0.6.13",
+      "latest_version": "0.6.14",
       "plugin_api_version": 2,
       "min_app_version": "0.41.40",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.13.zip",
-      "signature": "f098ebe9bbb239213ed43a3adf10500ef1c9885c3b8b67c9dd7c06ff3bf8d9dba5c749985c769a1f87da17ebb368a6a6087a76de65f1357f8b178a0d924fb902"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.14.zip",
+      "signature": "53c3fb260347c8159634de4b2699544ef007925f51cdb6885fa8d2069145a381877082e30b9804268e5d3de1d30ef252d811188d913c6a315618269df3325d01"
     },
     {
       "id": "netbox",
       "display_name": "NetBox",
       "description": "Sync LogicVein device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
-      "latest_version": "0.8.34",
+      "latest_version": "0.8.35",
       "plugin_api_version": 2,
       "min_app_version": "0.41.40",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.34.zip",
-      "signature": "80e2c31208c6834344b822afd071cb1d230a3cc26e3e7a6fcaa972e3d43678deafa231b6428e2f3712b4f31f4d3ab819e7c989af77fc58eafd6b3db5b1ab9400"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.35.zip",
+      "signature": "595f4b1d8f2f25c11966a16000c49fa94f36cdbe5582dcfb07ddbfbcd17c7f385806a12a20822a20ea87b94ad09bc1464edeb87cec5bd2fe292ded12043ea205"
     },
     {
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from LogicVein alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to LogicVein-managed devices.",
-      "latest_version": "0.16.15",
+      "latest_version": "0.16.16",
       "plugin_api_version": 2,
       "min_app_version": "0.41.40",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.15.zip",
-      "signature": "c7b8363090ebf83d2ebbac26fa88dc27ca61fc7bc9151fb11a8df2cc88bd7c9787ca0f7fab59461ef0ed5893f30495f338ae8b71d98468534418ba43ecf5080f"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.16.zip",
+      "signature": "eaed1b8b8a76001a15928c3ca70eafc253358c0f309478ebc84ce1e654cb9bc80c27231b7c0467da17e97adb9cb5a2682a5c3cf3d3b2580f5be160f75d23ec01"
     }
   ]
 }
