@@ -45,11 +45,11 @@
       "id": "phpipam",
       "display_name": "phpIPAM",
       "description": "Sync LogicVein device management IPs into phpIPAM addresses via the REST API.",
-      "latest_version": "0.1.4",
+      "latest_version": "0.2.0",
       "plugin_api_version": 2,
       "min_app_version": "0.41.63",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.1.4.zip",
-      "signature": "e0b4b365139affeca6a7107dcdf9617eb832a9374c32c7d6df086d3a9eea77ff91c7a8848ed7fc1ebc586f50dd9491314fa467da74fbf3a653e4faa896d92404"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.2.0.zip",
+      "signature": "f680f26f0556acac1fcc2c2c998de04ce88264bacac9d0aaaf1163e9f1b5ce0710e0de032510a04c0f46f387f3abd3a1fd7f45020e74ad9be580f1e9c879960f"
     },
     {
       "id": "snow",
