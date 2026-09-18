@@ -4,62 +4,62 @@
     {
       "id": "efficientip",
       "display_name": "EfficientIP",
-      "description": "Sync LogicVein device inventory into EfficientIP SOLIDserver IPAM via the REST API.",
-      "latest_version": "0.18.12",
+      "description": "Sync {product} device inventory into EfficientIP SOLIDserver IPAM via the REST API.",
+      "latest_version": "0.18.13",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/efficientip-0.18.12.zip",
-      "signature": "1eaf0dc17fead840933c9953771768f1cfa5691060775f4092f9049d12a9edc7be67d6d44951b905fd316153590bc14a389ef22b5f0a19e7db7c10410ad2de03"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/efficientip-0.18.13.zip",
+      "signature": "f0a6f280be4f94e76e29ada9e474bd0a74016d0c880fb001291a874a0fc21b5c791d2949ea992a590965afa9df4a1a5038d99d33c0944223003bbaf3ed9acf0a"
     },
     {
       "id": "infoblox",
       "display_name": "Infoblox",
-      "description": "Sync LogicVein device inventory into Infoblox DDI via WAPI and discovery CSV import.",
-      "latest_version": "0.6.20",
+      "description": "Sync {product} device inventory into Infoblox DDI via WAPI and discovery CSV import.",
+      "latest_version": "0.6.21",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/infoblox-0.6.20.zip",
-      "signature": "b0e8f4a6912e340d6f4186a33ff9a45c7a287e8cf5b0fcdae3330bda6f3d2dab12dcb10a0210930b049a869daa22e28f1c255d8da2f31ef610e5c8cd1c635d00"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/infoblox-0.6.21.zip",
+      "signature": "94e1370c2abc8046e5a44b0fcbbb8aea553ff8b8e9596649b04eb25aca8da21676a476fce7a0c659b9cb99279236bad97f4563c7480a1c8eb63415b6f21ced0e"
     },
     {
       "id": "jira",
       "display_name": "Jira",
-      "description": "Raise/resolve Jira issues from LogicVein alerts, open issues for detected config changes, and sync LogicVein inventory to Jira Assets (Jira Cloud).",
-      "latest_version": "0.6.19",
+      "description": "Raise/resolve Jira issues from {product} alerts, open issues for detected config changes, and sync {product} inventory to Jira Assets (Jira Cloud).",
+      "latest_version": "0.6.20",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.19.zip",
-      "signature": "e1a6a978f552e5a7df6ede5f92f24980e2115677d0fb4d3c2781de768f6b7bcbc1151c9c939106423b2f11b5a9809049da53823820170c007d41505b2e407407"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.20.zip",
+      "signature": "96a2d66d0f1e0e655faa5255fd79bbb9b13c82c886c1ac84fd9ec8ddbfe1599180c1b909e7f91afd6563c445ed548c43f1d21ab1a52b5d72b2d7fc573f3b1605"
     },
     {
       "id": "netbox",
       "display_name": "NetBox",
-      "description": "Sync LogicVein device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
-      "latest_version": "0.8.39",
+      "description": "Sync {product} device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
+      "latest_version": "0.8.40",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.39.zip",
-      "signature": "eb3a1150f5ef9fcad27cfe2e71df06aa0e067b0b50e49af407b2d945719bdbe93ea7fed0a3aaaa1662afcbda6af0f7ff423fc906aee2642ae0e110b75287f702"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.40.zip",
+      "signature": "166151c15b8dfaae09a561f0d559462699aab16792e34a7f18b7185ce680ae9583c1d17e4dd47071e324f97fa0055d133c09df4d992174641f8b6b95f4a53d0d"
     },
     {
       "id": "phpipam",
       "display_name": "phpIPAM",
-      "description": "Sync LogicVein device management IPs into phpIPAM addresses via the REST API.",
-      "latest_version": "0.3.3",
+      "description": "Sync {product} device management IPs into phpIPAM addresses via the REST API.",
+      "latest_version": "0.3.4",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.3.3.zip",
-      "signature": "14e8340286238fa25ca91ef3f52d5355abcc491ed89cce94c999fa345e28c455142fa9a9eaafae910b7f42effd815342cb8fda1206a5a9824680c11e4b33f60d"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.3.4.zip",
+      "signature": "c3cd4649a52a75e8749bfd180066a8c8b097ed7060a79096d1dbdf82c5966feb1bf21af215be2ffa3c896e7b4a4193f5b5222408be91371e47a7da4c2b3c950e"
     },
     {
       "id": "snow",
       "display_name": "ServiceNow",
-      "description": "Sync LogicVein device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from LogicVein alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to LogicVein-managed devices.",
-      "latest_version": "0.16.24",
+      "description": "Sync {product} device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from {product} alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to {product}-managed devices.",
+      "latest_version": "0.16.25",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.8",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.24.zip",
-      "signature": "d261a9a6abdb72422ee195b77da537d2ba71993063f1dedea45bf59badeb82b0ad921e4ba75fdca6134110ea571ded3c265185bd3300145bbe2b53c4c1e89d00"
+      "min_app_version": "0.42.11",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.25.zip",
+      "signature": "e4fb604a773fdddb8cc90143e3ddecfdd3a2c052d8a68ae91320ea039565d729464bc1df581751de6e440c7b2fcc33915aed5601a24059448b7c712ee8bf9803"
     }
   ]
 }
