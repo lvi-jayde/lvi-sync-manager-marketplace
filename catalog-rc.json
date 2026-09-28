@@ -35,11 +35,11 @@
       "id": "netbox",
       "display_name": "NetBox",
       "description": "Sync {product} device inventory to NetBox DCIM and IPAM via the NetBox REST API.",
-      "latest_version": "0.8.42",
+      "latest_version": "0.8.43",
       "plugin_api_version": 2,
       "min_app_version": "0.42.14",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.42.zip",
-      "signature": "7b307125e29951506cbd8fa8b517b94136f9947a55027cbc11652ed53246451f9f0130aae3b6dd353e5aee5b9d957bdc6242b13b8cf6b0022ea4f193f69fa50e"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/netbox-0.8.43.zip",
+      "signature": "7a093515bbaefa0f3bd294b9bad67c8ac515fbffd2520d7eb734cf04fb22321c2723f282d2543ccb275c377329ec56e3d18ac1da6ddd28a803668a95c1e4b80b"
     },
     {
       "id": "phpipam",
