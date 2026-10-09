@@ -5,11 +5,11 @@
       "id": "cve_feed",
       "display_name": "CVE Feed",
       "description": "Match LogicVein devices to cvefeed.io products and report the CVEs that apply to each, using NVD's data and the vendors' own advisories.",
-      "latest_version": "0.2.0",
+      "latest_version": "0.3.0",
       "plugin_api_version": 2,
       "min_app_version": "0.42.21",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/cve_feed-0.2.0.zip",
-      "signature": "861c866b0f14818fcc6e12dedb759240298b9ca237d454def30b01f8845020b16486b38eff7d63439933bfddecc5afea6e726c9b5336e1ffe08b8b67760ddf00"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/cve_feed-0.3.0.zip",
+      "signature": "4c73074d46d5331207291a7c668758bbae1d7f83a0624bff20ab8585d7a2ae13df515bafc6a384b2767b460b280547c3deaaf1ae4160b2c4900f8f82119a250e"
     },
     {
       "id": "efficientip",
