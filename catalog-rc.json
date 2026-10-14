@@ -35,11 +35,11 @@
       "id": "jira",
       "display_name": "Jira",
       "description": "Raise/resolve Jira issues from {product} alerts, open issues for detected config changes, and sync {product} inventory to Jira Assets (Jira Cloud).",
-      "latest_version": "0.6.22",
+      "latest_version": "0.6.23",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.14",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.22.zip",
-      "signature": "520a17ff3d727159c8a3cb5a3056ce3b009a106d6d10f74ed7668f7cfa9f3c2b6cf479e9996541ae84d996af64fea86ad165ffbe39822ac4b6e6565c8c72610d"
+      "min_app_version": "0.42.30",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/jira-0.6.23.zip",
+      "signature": "ccfa057f88ff19b12c038f577f4e503df86ece2d59e8d38a618fb26e05ec8f8e8b9d57e9c6f89daf2a23a3a09c352c24b0e76304513fb6030e278fd317c88d0c"
     },
     {
       "id": "netbox",
@@ -65,11 +65,11 @@
       "id": "snow",
       "display_name": "ServiceNow",
       "description": "Sync {product} device inventory to the ServiceNow CMDB via the Table API, raise/resolve incidents from {product} alerts, open incidents for detected config changes, and push ServiceNow Change Request commands to {product}-managed devices.",
-      "latest_version": "0.16.27",
+      "latest_version": "0.16.28",
       "plugin_api_version": 2,
-      "min_app_version": "0.42.14",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.27.zip",
-      "signature": "7c5bb67cd9c21781a315d88f0691e52df48e1acb2d6b58592794bc24f777b0b66530a15907c6fcec569ba09c1375bb3002025accc5d41e77c2caf2ce3a040405"
+      "min_app_version": "0.42.30",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/snow-0.16.28.zip",
+      "signature": "8ddca62af50260aefee4b0e3bbf65b3dfd2f00f2e1e02ed18212616debece2a3f9dcd162d9939ec91f96d4e0abef1da8a0913c5daf08753177fd2fb67695d60d"
     }
   ]
 }
