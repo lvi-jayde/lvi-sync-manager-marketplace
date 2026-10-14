@@ -55,11 +55,11 @@
       "id": "phpipam",
       "display_name": "phpIPAM",
       "description": "Sync {product} device management IPs into phpIPAM addresses via the REST API.",
-      "latest_version": "0.3.6",
+      "latest_version": "0.3.7",
       "plugin_api_version": 2,
       "min_app_version": "0.42.14",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.3.6.zip",
-      "signature": "31e91926adf3611aa64165b55badbbad86c41cfd6ac968f52fed82f5c0d9e5cc0828f137730af7a72c047ee2f4e30ca2d2d14d11e93f29c5b9b48b3363dc5a0a"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/phpipam-0.3.7.zip",
+      "signature": "119cdfb607ab255c257d0abc84771fc2b0463680fa9aa9a875f275249fea54ceceeb9dcbe2ece5680fd3f4f02a20b61cf8dd4198fd5d6ac311382385eaa11201"
     },
     {
       "id": "snow",
