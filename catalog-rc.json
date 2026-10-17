@@ -2,6 +2,16 @@
   "catalog_version": 1,
   "plugins": [
     {
+      "id": "aws_sns",
+      "display_name": "AWS SNS",
+      "description": "Publish {product} alerts to an Amazon SNS topic, for SMS, email and other subscribers.",
+      "latest_version": "0.1.0",
+      "plugin_api_version": 2,
+      "min_app_version": "0.42.32",
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/aws_sns-0.1.0.zip",
+      "signature": "f1f991e17ac3789eed016bf8fb17f48c4dbe357966ea40ec9c16c6bf81884aee5ea1e36bf2d7b8da2fa4b4ce93bc98aedb510fd45035f032eae5966ada82b003"
+    },
+    {
       "id": "cve_feed",
       "display_name": "CVE Feed",
       "description": "Match LogicVein devices to cvefeed.io products and report the CVEs that apply to each, using NVD's data and the vendors' own advisories.",
