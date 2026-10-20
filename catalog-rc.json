@@ -5,11 +5,11 @@
       "id": "aws_sns",
       "display_name": "AWS SNS",
       "description": "Publish {product} alerts and configuration changes to an Amazon SNS topic, for SMS, email and other subscribers.",
-      "latest_version": "0.2.0",
+      "latest_version": "0.3.0",
       "plugin_api_version": 2,
       "min_app_version": "0.42.32",
-      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/aws_sns-0.2.0.zip",
-      "signature": "2d6811c43ae54e10e7df93b6f0899915696ad963a38b569bde61dec8aa0d91bf9e1c83bdf62842fcb04dcad047966b1a9fd2e9329e1d7d4078b8910aeec95200"
+      "download_url": "https://raw.githubusercontent.com/lvi-jayde/lvi-sync-manager-marketplace/main/releases-rc/aws_sns-0.3.0.zip",
+      "signature": "5633c3343fa4cf615db40eb86d91e40af68d5cc31f12be7307bc11327b07ebd491e05ad87e0acefecd4232d5d134d95266134b7a46e0f68901c68292b89b540b"
     },
     {
       "id": "cve_feed",
